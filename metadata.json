@@ -1,0 +1,6 @@
+{
+  "name": "AstroBio Nexus: Multimodal Space & BioTech Agentic Intelligence",
+  "description": "Autonomous Multimodal Agentic Intelligence platform for Planetary Biosignatures, Space Multi-Omics, and Astronaut Radiation Health for the Multimodal AI Hackathon 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
